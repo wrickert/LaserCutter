@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "PSUfaceplate")(type KiCad)(uri "$(KIPRJMOD)/PSUfaceplate.pretty")(options "")(descr ""))
+)
